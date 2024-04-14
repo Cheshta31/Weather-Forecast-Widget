@@ -1,8 +1,4 @@
-# React + Vite
+This repository contains a weather widget app developed using React.js. The app fetches real-time weather data based on the location user wants. It displays the current weather conditions as well as forecasts for the upcoming six days, including wind speed, humidity, and 'feels like' temperature. The interface dynamically changes its background based on the diffrent weather conditions, offering an attractive and user-friendly experience
+<br>
+Live Site -> https://cheshta31-weather-forecast.netlify.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
